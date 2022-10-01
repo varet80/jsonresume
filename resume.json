@@ -1,12 +1,12 @@
 {
     "basics": {
-      "name": "John Doe",
-      "label": "Programmer",
+      "name": "V. Aretakis",
+      "label": "DevOps Lead",
       "image": "",
-      "email": "john@gmail.com",
-      "phone": "(912) 555-4321",
+      "email": "talkto@vassil.is",
+      "phone": "",
       "url": "https://johndoe.com",
-      "summary": "A summary of John Doe…",
+      "summary": "Passionate about technology, trying to deliver the best application performance and reliability. Following long term knowledge of IT Infrastructure, cloud and on-premise. Working on transforming from on premise to cloud native. Working with modern immutable containerization\nLeading team of engineers delivering the most challenging products",
       "location": {
         "address": "2712 Broadway St",
         "postalCode": "CA 94115",
@@ -14,11 +14,18 @@
         "countryCode": "US",
         "region": "California"
       },
-      "profiles": [{
-        "network": "Twitter",
-        "username": "john",
-        "url": "https://twitter.com/john"
-      }]
+      "profiles": [
+        {
+            "network": "Github",
+            "username": "varet80",
+            "url": "https://github.com/varet80"
+        },
+        {
+            "network": "LinkedIn",
+            "username": "varet",
+            "url": "https://linkedin.com/in/varet"
+        }
+    ]
     },
     "work": [{
       "name": "Company",
