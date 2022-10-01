@@ -8,7 +8,11 @@
       "url": "https://vassil.ism",
       "summary": "Passionate about technology, trying to deliver the best application performance and reliability. Following long term knowledge of IT Infrastructure, cloud and on-premise. Working on transforming from on premise to cloud native. Working with modern immutable containerization.Leading team of engineers delivering the most challenging products",
       "location": {
-
+        "address": "",
+        "postalCode": "",
+        "city": "Berlin",
+        "countryCode": "DE",
+        "region": ""
       },
       "profiles": [
         {
